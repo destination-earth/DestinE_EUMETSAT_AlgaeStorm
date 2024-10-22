@@ -8,7 +8,6 @@ Collaborators from SMHI: Bengt Karlson, Lars Arneborg.
 
 RISE project managers: Jenny Carlstedt, Tobias Edman.
 
-`__________`
 
 ## Authors
 
@@ -16,7 +15,6 @@ RISE project managers: Jenny Carlstedt, Tobias Edman.
 - [@smitachakraborty](https://github.com/smitachakraborty)
 - [@jesperdejby](https://github.com/jesperdejby)
 
-`__________`
 
 ## Funding
 
