@@ -2,19 +2,27 @@
 
 Code repository for the Algae Bloom project with RISE and SMHI, funded by EUMETSAT. Code based on data from Destination Earth Data Lake (DEDL) platform. The final jupyter notebooks and python scripts are present here. 
 
-List of datasets used are in excel sheet `AlgaeStorm_datasets.xlsx`.
- 
-Collaborators from SMHI: Bengt Karlson, Lars Arneborg. 
-
-RISE project managers: Jenny Carlstedt, Tobias Edman.
-
-
 ## Authors
 
 ### Active contributors
 - [@smitachakraborty](https://github.com/smitachakraborty)
 - [@jesperdejby](https://github.com/jesperdejby)
 
+## Project managers and collaborators
+
+Project managers: Jenny Carlstedt, Tobias Edman.
+
+Collaborators from SMHI: Bengt Karlson, Lars Arneborg. 
+
+## File descriptions
+
+List of datasets used are in excel sheet `AlgaeStorm_datasets.xlsx`.
+
+`config` directory has 
+
+`models` have the notebooks for processing the geotiffs and ML for making the prediction.
+
+`data_scripts` have the scripts for downloading the data in the DEDL s3 bucket.
 
 ## Funding
 
