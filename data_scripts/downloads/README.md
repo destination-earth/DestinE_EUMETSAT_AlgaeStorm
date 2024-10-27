@@ -1,0 +1,1 @@
+Designated folder for the local downloads. Files will be downloaded to a subfolder, uploaded to s3 and then removed. Leaving an empty folder tree. Here is an example of the structure: downloads/eodata/Sentinel-3/OLCI/OL_2_WFR/2019/06/01/S3A_OL_2_WFR____20190601T091400_20190601T091700_20190602T194926_0179_045_207_1980_MAR_O_NT_002.SEN3
