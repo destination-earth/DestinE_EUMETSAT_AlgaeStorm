@@ -14,15 +14,11 @@ Project managers: Jenny Carlstedt, Tobias Edman.
 
 Collaborators from SMHI: Bengt Karlson, Lars Arneborg. 
 
-## File descriptions
+## Folder descriptions
 
-`data_scripts` have the scripts for downloading the data in the DEDL s3 
-bucket.
-
-List of datasets used are in excel sheet `AlgaeStorm_datasets.xlsx`.
+`data_scripts` have scripts for downloading and processing data. Result is uploaded to DEDL s3 bucket.
 
 `models` have the notebooks for processing the geotiffs and ML for making the prediction.
-
 
 ## Funding
 
