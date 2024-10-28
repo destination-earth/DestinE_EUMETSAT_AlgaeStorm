@@ -4,6 +4,8 @@ This folder contains script for data processing purposes. Below is a brief expla
 
  ![Overview data processing](../images/algaestorm_data_processing.png)
 
+AlgaeStorm_datasets.xlsx - Gives a brief overview of the datasets investigated.
+
 ## Python scripts
 
 - main.py - Can be used to download, process and upload Sentinel-3 OLCI OL2WFR files to s3. Processes the data according to the process shown in the image above. 
@@ -13,7 +15,7 @@ Will set the projection to EPSG:4326 and will clip and resample to the Baltic Se
 
 - utils.py - Contains majority of the functions used in main.py and split_tif_files.py
 
-# Jupyter notebooks
+## Jupyter notebooks
 
 - Irradiation.ipynb - Provides an example on downloading the Fraction of Absorbed Photosynthetically Active Radiation dataset from DestinE data lake.
 
