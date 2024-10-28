@@ -18,6 +18,8 @@ Collaborators from SMHI: Bengt Karlson, Lars Arneborg.
 
 `data_scripts` have scripts for downloading and processing data. Result is uploaded to DEDL s3 bucket.
 
+List of datasets used are in excel sheet `AlgaeStorm_datasets.xlsx` under `data_scripts`.
+
 `models` have the notebooks for processing the geotiffs and ML for making the prediction.
 
 ## Funding
