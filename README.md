@@ -22,8 +22,5 @@ List of datasets used are in excel sheet `AlgaeStorm_datasets.xlsx` under `data_
 
 `models` have the notebooks for processing the geotiffs and ML for making the prediction.
 
-## Funding
-
-This project is funded by the European Space Agency through the Destination Earth Use Case initiative.
 
 
